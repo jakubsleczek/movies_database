@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1663048342 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\main.cpp
+	<iostream>
+	"Movie.h"
+	"Movies.h"
+	"Collections.h"
+	"Utilities.h"
+
+1662985401 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\movie.h
+	<iostream>
+	<string>
+
+1662985401 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\movies.h
+	<iostream>
+	<string>
+	<vector>
+	"Movie.h"
+	<string.h>
+
+1663048638 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\collections.h
+	"Movies.h"
+	"Movie.h"
+	<iostream>
+
+1663048494 c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\utilities.h
+	<iostream>
+	"Collections.h"
+	"Movies.h"
+	"Movie.h"
+
+1656659562 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\movie.cpp
+	"Movie.h"
+
+1663048638 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\utilities.cpp
+	"Utilities.h"
+
+1663048794 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\collections.cpp
+	"Collections.h"
+
+1663048792 source:c:\users\guest\onedrive - instytut techniczny wojsk lotniczych\dokumenty\filmweb\movies.cpp
+	"Movies.h"
+
